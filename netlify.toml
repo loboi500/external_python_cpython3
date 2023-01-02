@@ -1,4 +1,3 @@
-[build]
-    base = "Doc/"
-    command = "make html"
-    publish = "Doc/build/html"
+version https://git-lfs.github.com/spec/v1
+oid sha256:12553fd8833aa23bda690495a676104b4fa7f5c82357f6a3e4ca94e94b22bb40
+size 82

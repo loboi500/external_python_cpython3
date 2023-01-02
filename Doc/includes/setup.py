@@ -1,9 +1,3 @@
-from distutils.core import setup, Extension
-setup(name="noddy", version="1.0",
-      ext_modules=[
-         Extension("noddy", ["noddy.c"]),
-         Extension("noddy2", ["noddy2.c"]),
-         Extension("noddy3", ["noddy3.c"]),
-         Extension("noddy4", ["noddy4.c"]),
-         Extension("shoddy", ["shoddy.c"]),
-         ])
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e997efe0642f5a74d549fb9d0cef77b35eec3601fa79b0decbcdad8d7533515
+size 329
